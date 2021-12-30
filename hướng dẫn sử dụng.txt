@@ -1,0 +1,10 @@
+các bạn úp code xong thì tải file lumanhgioi.sql xuống nhé, vào daataabase úp sql lên, rồi lấy tên database + user + pass và điền vào file config.php nhé.
+
+
+
+muốn vào admin thì bạn chỉ cần nhập link web/admin nha(ví dụ: https://keyvip.xyz/admin) nha.
+
+tài khoản admin: admin
+mật khẩu admin: 0333293290
+
+muốn đổi tài khoản hoặc mật khẩu bạn vào database và chọn tên database, chọn table user và bấm chỉnh sửa nhé.

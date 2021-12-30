@@ -1,0 +1,904 @@
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:05:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:06:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:12:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 13:14:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/codegiar/public_html/uy-tin/index.php on line 97
+[01-Aug-2021 13:14:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/codegiar/public_html/uy-tin/index.php on line 97
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:14:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:15:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:15:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:21:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:26:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:27:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/codegiar/public_html/uy-tin/index.php on line 38
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:28:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:28:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:29:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:30:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:30:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:31:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:45:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:47:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:49:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:51:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:51:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: check in /home/codegiar/public_html/uy-tin/index.php on line 44
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:53:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:54:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:55:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:57:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:58:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:58:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 20:59:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:00:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:01:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:02:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:03:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:04:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:05:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:06:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:06:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:07:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:09:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:09:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:14:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:15:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:17:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 14:19:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/codegiar/public_html/uy-tin/index.php on line 91
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:19:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/codegiar/public_html/uy-tin/index.php on line 37
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:20:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/codegiar/public_html/uy-tin/index.php on line 37
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 21:21:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/codegiar/public_html/uy-tin/index.php on line 37
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 22:58:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 22:58:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[01-Aug-2021 23:01:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 10:51:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 11:31:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 11:31:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:55:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:55:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[02-Aug-2021 15:56:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:29:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:32:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:34:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:35:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:35:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:36:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:37:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:38:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:39:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:41:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.smtp.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.smtp.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 12
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 13
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(SMTP/class.phpmailer.php): failed to open stream: No such file or directory in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'SMTP/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/codegiar/public_html/config.php on line 14
+[03-Aug-2021 16:42:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 350
+[04-Aug-2021 18:06:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[04-Aug-2021 18:06:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:15:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:24:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:27:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:27:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:27:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:27:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:29:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:30:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 13:42:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 14:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 14:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 14:29:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 16:27:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 18:28:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[05-Aug-2021 20:20:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 322
+[06-Aug-2021 11:35:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 11:42:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 11:42:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 11:42:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 11:44:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:06:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:29:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:50:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:52:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:53:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 12:54:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 14:03:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 14:04:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[06-Aug-2021 14:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[07-Aug-2021 23:37:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[07-Aug-2021 23:37:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[07-Aug-2021 23:37:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:07:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:12:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:16:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:16:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:16:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:17:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:40:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:41:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 00:54:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 01:25:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 01:30:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 12:29:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 19:21:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 22:10:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 22:40:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 23:06:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 23:06:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 23:10:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 23:10:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[08-Aug-2021 23:54:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 06:56:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 09:16:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 09:59:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 10:19:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 12:54:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:01:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:01:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:01:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:02:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 13:02:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:47:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:49:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:49:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:49:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:50:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:50:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[09-Aug-2021 14:51:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 323
+[16-Sep-2021 09:32:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 234
+[16-Sep-2021 09:32:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 234
+[16-Sep-2021 09:32:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user in /home/codegiar/public_html/config.php on line 234
